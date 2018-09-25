@@ -22,15 +22,15 @@ No se corregirán aquellas actividades que:
 + no tengan la extensión del fichero de manera correcta.
 
 ### Calificación
-| Parte 1                                                                                   |:3 ptos.      :|
-| ----------------------------------------------------------------------------------------- |:-------------:| 
+| **Parte 1**                                                                               |**3 ptos.**    |
+| ----------------------------------------------------------------------------------------- |---------------| 
 | Se incluye un crucigrama de más de 20 preguntas                                           | 3 ptos.       |
 | Se incluyen entre 15 y 20 preguntas                                                       | 1.5 ptos.     |
 | Se incluyen entre 10 y 14 preguntas                                                       | 0.5 ptos.     |
 | Se incluyen menos de 10 preguntas                                                         | 0 ptos        |             | Por cada pregunta cuya respuesta errónea                                                  | -0.25 ptos.   |             
 |                                                                                           |               |    
-| Parte 2                                                                                   |:5 ptos.      :|
-| ----------------------------------------------------------------------------------------- |:-------------:| 
+| **Parte 2**                                                                               |**5 ptos.**    |
+| ----------------------------------------------------------------------------------------- |---------------| 
 | Se incluyen 5 preguntas diferntes V/F y todas las respuestas proporcionadas son correctas | 2 ptos. (max) |
 | De las 10 preguntas V/F, alguna de las respuestas proporcionada como correcta no lo es    | -0.5 ptos     |
 | Se incluyen menos de 10 preguntas. Por cada pregunta que falte                            | -0.5 ptos     |             
@@ -43,8 +43,8 @@ No se corregirán aquellas actividades que:
 |                                                                                           |               |
 | Se incluyen 2 preguntas diferentes sobre diferencias de conceptos en la unidad            | 1 pto         |
 | Se incluye 1 pregunta sobre diferencias de conceptos vistos en la unidad                  | 0.5 ptos      |             |                                                                                           |               |
-| Parte 3                                                                                   |:2 ptos.      :|
-| ----------------------------------------------------------------------------------------- |               | 
+| **Parte 3**                                                                               |**2 ptos.**    |
+| ----------------------------------------------------------------------------------------- |---------------| 
 | Se presenta el diagrama completo de una unidad funcional, indicando cuál es y la          | 2 ptos.       |
 | funcionalidad de cada una de las partes                                                   |               |
 | Se presenta el diagrama pero no se indica qué unidad funcional                            | -0.5 ptos.    |
