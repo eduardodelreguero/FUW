@@ -25,9 +25,10 @@ No se corregirán aquellas actividades que:
 | **Parte 1**                                                                               |**3 ptos.**    |
 | ----------------------------------------------------------------------------------------- |---------------| 
 | Se incluye un crucigrama de más de 20 preguntas                                           | 3 ptos.       |
-| Se incluyen entre 15 y 20 preguntas                                                       | 1.5 ptos.     |
-| Se incluyen entre 10 y 14 preguntas                                                       | 0.5 ptos.     |
-| Se incluyen menos de 10 preguntas                                                         | 0 ptos        |             | Por cada pregunta cuya respuesta errónea                                                  | -0.25 ptos.   |             
+| +Se incluyen entre 15 y 20 preguntas                                                      | 1.5 ptos.     |
+| +Se incluyen entre 10 y 14 preguntas                                                      | 0.5 ptos.     |
+| +Se incluyen menos de 10 preguntas                                                        | 0 ptos        |            
+| +Por cada pregunta cuya respuesta errónea                                                 | -0.25 ptos.   |             
 |                                                                                           |               |    
 | **Parte 2**                                                                               |**5 ptos.**    |
 |                                                                                           |               | 
