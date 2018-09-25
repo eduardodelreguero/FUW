@@ -22,7 +22,7 @@ No se corregirán aquellas actividades que:
 + no tengan la extensión del fichero de manera correcta.
 
 ### Calificación
-| Parte 1                                                                                                   |
+| Parte 1                                                                                   |               |
 | ----------------------------------------------------------------------------------------- |:-------------:| 
 | Se incluyen 10 preguntas V/F y todas las respuestas proporcionadas son correctas          | right-aligned |
 | Se incluyen 10 preguntas V/F pero no todas las respuestas proporcionadas son correctas    | right-aligned |
