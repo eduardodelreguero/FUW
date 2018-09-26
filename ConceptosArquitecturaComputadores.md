@@ -32,7 +32,7 @@ No se corregirán aquellas actividades que:
 |                                                                                           |               |    
 | **Parte 2**                                                                               |**5 ptos.**    |
 |                                                                                           |               | 
-| Se incluyen 5 preguntas diferntes V/F y todas las respuestas proporcionadas son correctas | 2 ptos. (max) |
+| Se incluyen 5 preguntas diferentes V/F y todas las respuestas proporcionadas son correctas | 2 ptos. (max) |
 | De las 10 preguntas V/F, alguna de las respuestas proporcionada como correcta no lo es    | -0.5 ptos     |
 | Se incluyen menos de 10 preguntas. Por cada pregunta que falte                            | -0.5 ptos     |             
 |                                                                                           |               |  
