@@ -25,16 +25,16 @@ No se corregirán aquellas actividades que:
 | **Parte 1**                                                                               |**3 ptos.**    |
 | ----------------------------------------------------------------------------------------- |---------------| 
 | Se incluye un crucigrama de más de 20 preguntas                                           | 3 ptos.       |
-| +Se incluyen entre 15 y 20 preguntas                                                      | 1.5 ptos.     |
-| +Se incluyen entre 10 y 14 preguntas                                                      | 0.5 ptos.     |
+| +Se incluyen de 15 a 20 preguntas                                                         | 1.5 ptos.     |
+| +Se incluyen de 10 a 14 preguntas                                                         | 0.5 ptos.     |
 | +Se incluyen menos de 10 preguntas                                                        | 0 ptos        |            
 | +Por cada pregunta cuya respuesta errónea                                                 | -0.25 ptos.   |             
 |                                                                                           |               |    
 | **Parte 2**                                                                               |**5 ptos.**    |
 |                                                                                           |               | 
-| Se incluyen 5 preguntas diferentes V/F y todas las respuestas proporcionadas son correctas | 2 ptos. (max) |
+| Se incluyen 5 preguntas diferentes V/F y todas las respuestas proporcionadas son correctas| 2 ptos. (max) |
 | De las 10 preguntas V/F, alguna de las respuestas proporcionada como correcta no lo es    | -0.5 ptos     |
-| Se incluyen menos de 10 preguntas. Por cada pregunta que falte                            | -0.5 ptos     |             
+| Se incluyen menos de 10 preguntas. Por cada pregunta que falte se descuenta               | -0.5 ptos     |             
 |                                                                                           |               |  
 | Se incluyen 5 preguntas diferentes tipo test, todas las preguntas tienen cuatro opciones  | 2 ptos. (max) |
 | y se proporcionan 3 respuestas incorrectas y una respuesta correcta                       |               |
