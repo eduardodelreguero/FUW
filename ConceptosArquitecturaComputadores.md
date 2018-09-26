@@ -11,11 +11,11 @@ Para cada grupo de preguntas se ha de incluir las respuestas correctas
 
 ### Entrega
 
-Crear 3 ficheros en formato PDF. Uno por cada una de las partes (Parte1, Parte2 y Parte3) de la práctica.
+Entregar un fichero en formato PDF con lo solicitado en el enunciado. Cada una de las partes (Parte1, Parte2 y Parte3) de la práctica debe comenzar en una página nueva.
 
-Fichero comprimido .zip con los 3 ficheros creados cuyo nombre del fichero cumpla la siguiente nomenclatura:
+El nombre del fichero debe cumplir la siguiente nomenclatura:
 
-+ U01A01_Nombre_PrimerApellido.zip   (donde Nombre debe ser tu nombre y PrimerApellido tu primer apellido)
++ U01A01_Nombre_PrimerApellido.pdf   (donde Nombre debe ser tu nombre y PrimerApellido tu primer apellido)
 
 No se corregirán aquellas actividades que:
 + no cumplan la nomenclatura en el nombre del fichero.
