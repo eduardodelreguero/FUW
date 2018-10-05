@@ -2,8 +2,8 @@
 **[Parte 1 - 3 ptos.]** Crear 1 crucigrama en el que se formulen preguntas sobre la unidad utilizando la herramienta online https://worksheets.theteacherscorner.net/make-your-own/crossword/. Se ha de incluir el crucigrama sin solución (preparado para empezar a completar) y el crucigrama solucionado
 
 **[Parte 2 - 5 ptos.]** Crear un documento PDF que conste de:
-+ 10 preguntas de verdadero/falso
-+ 10 preguntas tipo test con 4 opciones de respuesta única.
++ 5 preguntas de verdadero/falso
++ 5 preguntas tipo test con 4 opciones de respuesta única.
 + 2 preguntas sobre diferencias entre conceptos (Ejemplo: Diferencia entre el registro acumulador y el registro contador de programa)
 Para cada grupo de preguntas se ha de incluir las respuestas correctas
 
@@ -33,13 +33,13 @@ No se corregirán aquellas actividades que:
 | **Parte 2**                                                                               |**5 ptos.**    |
 |                                                                                           |               | 
 | Se incluyen 5 preguntas diferentes V/F y todas las respuestas proporcionadas son correctas| 2 ptos. (max) |
-| De las 10 preguntas V/F, alguna de las respuestas proporcionada como correcta no lo es    | -0.5 ptos     |
-| Se incluyen menos de 10 preguntas. Por cada pregunta que falte se descuenta               | -0.5 ptos     |             
+| De las 5 preguntas V/F, alguna de las respuestas proporcionada como correcta no lo es     | -0.5 ptos     |
+| Se incluyen menos de 5 preguntas. Por cada pregunta que falte se descuenta                | -0.5 ptos     |             
 |                                                                                           |               |  
 | Se incluyen 5 preguntas diferentes tipo test, todas las preguntas tienen cuatro opciones  | 2 ptos. (max) |
 | y se proporcionan 3 respuestas incorrectas y una respuesta correcta                       |               |
-| De las 10 preguntas tipo test, alguna de las respuesta como correcta, no lo es            | -0.5 ptos     |
-| De las 10 preguntas tipo test, alguna de las respuesta como incorrecta, no lo es          | -0.5 ptos     |
+| De las 5 preguntas tipo test, alguna de las respuesta como correcta, no lo es             | -0.5 ptos     |
+| De las 5 preguntas tipo test, alguna de las respuesta como incorrecta, no lo es           | -0.5 ptos     |
 | Para alguna pregunta no se proporcionan 4 respuestas posibles                             | -0.25 ptos    |
 |                                                                                           |               |
 | Se incluyen 2 preguntas diferentes sobre diferencias de conceptos en la unidad            | 1 pto         |
